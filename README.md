@@ -1,5 +1,5 @@
 ## TO INSTALL AND RUN THIS PROGRAM ##
-* Download this project in .zip or .tar.gz format
+* Download this project
 * Unzip the project
 * Make sure you have this dependency installed: e(fx)clipse
 * Run this in any Software available for you (Eclipse, Visual Studio)
